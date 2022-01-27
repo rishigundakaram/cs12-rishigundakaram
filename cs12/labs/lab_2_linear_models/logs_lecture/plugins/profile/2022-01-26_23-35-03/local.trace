@@ -1,0 +1,19 @@
+
+511
+	/host:CPU1
+ö½:ö½:ğ¤;
+
+tf_Computeğ¤;"E1ö½:1EagerExecute: __inference_trace_function_22783238H€„ÁÜ|P€ûÍù"J1ö½:6EagerLocalExecute: __inference_trace_function_22783238HÀˆşÜ|PÀöù"21ö½:EagerCopyToDeviceAndAddCacheKeyHÀ‘øİ|PÀ¨¥"F1ö½:8TensorHandle::GetResourceHandleDtypesAndShapes WaitReadyH€¨©à|"F1ö½:8TensorHandle::GetResourceHandleDtypesAndShapes WaitReadyHÀµàá|"01ö½:ValidateInputTypeAndPlacementHÀñÅà‹PÀ„="'1ö½:EagerKernelExecuteH€ÿüá‹P€€’ô"‡1ö½:FunctionRunHÀŒ´ã‹P€¹æ¨Z
+	step_name0Z
+id-597359639298425426Z
+group_id0Z+
+name#__inference_trace_function_22783238")1ö½:TFE_DeleteTensorHandleH€ıÖÑPÀ„=",1ö½:TFE_Py_FastPathExecute_CHÀš¯âP€Æı")1ö½:TFE_DeleteTensorHandleH€”ŸïPÀ„="%1ö½:TFE_DeleteTensorHandleH€™ğ",1ö½:EagerExecute: LogicalAndH€¦“ñPÀ±Ÿ"11ö½:EagerLocalExecute: LogicalAndHÀªĞñP€­â"01ö½:ValidateInputTypeAndPlacementH€¯òPÀ„="&1ö½:EagerKernelExecuteHÀ³ÊòP€¤è")1ö½:LogicalAnd:LogicalAndHÀ¼ÄóPÀ–±",1ö½:TFE_Py_FastPathExecute_CH€¢í‹‘P€¿Ö"*1ö½:EagerExecute: IdentityH€ÆÕ‘PÀ–±"/1ö½:EagerLocalExecute: IdentityHÀÊ’‘P€’ô"&1ö½:EagerKernelExecuteH€ÏÏ‘PÀ·",1ö½:ValidateInputTypeAndPlacementH€ÏÏ‘"$1ö½:Identity:IdentityHÀÓŒ‘‘PÀ„=",1ö½:TFE_Py_FastPathExecute_CHÀ÷ô”‘PÀÌ"%1ö½:TFE_DeleteTensorHandleH€ö¸½‘"%1ö½:TFE_DeleteTensorHandleH€£›Â‘"31ö½:EagerLocalExecute: WriteSummaryH€Ù÷Ç‘PÀÃ“".1ö½:EagerExecute: WriteSummaryH€Ù÷Ç‘PÀÃ“"&1ö½:EagerKernelExecuteHÀİ´È‘PÀº™",1ö½:ValidateInputTypeAndPlacementHÀİ´È‘"-1ö½:WriteSummary:WriteSummaryHÀæ®É‘PÀ±Ÿ")1ö½:TFE_DeleteTensorHandleHÀ¥…Ğ‘PÀ„="%1ö½:TFE_DeleteTensorHandleHÀ®ÿĞ‘"%1ö½:TFE_DeleteTensorHandleHÀ®ÿĞ‘")1ö½:TFE_DeleteTensorHandleH€¦œë‘PÀ„="%1ö½:TFE_DeleteTensorHandleH€¦œë‘"%1ö½:TFE_DeleteTensorHandleHÀ×»ğ‘"%1ö½:TFE_DeleteTensorHandleH€Üøğ‘"c1ğ¤;ExecutorState::ProcessHÀ»òÔŒPÀÜ®Z
+iter_num0Z
+group_id0Z
+id-597359639298425426"D1ğ¤;!add/ReadVariableOp:ReadVariableOpH€ä—ÙŒPÀ·Z
+group_id0"c1ğ¤;ExecutorState::ProcessH€˜¡ìŒPÀ–±Z
+id-597359639298425426Z
+iter_num0Z
+group_id0"F1ğ¤;$MatMul/ReadVariableOp:ReadVariableOpHÀœŞìŒPÀ„=Z
+group_id0"C1ğ¤;ExecutorDoneCallbackH€³ïŒPÀŸ«Z
+id-597359639298425426
